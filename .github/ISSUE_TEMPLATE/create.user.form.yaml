@@ -1,6 +1,6 @@
 name: "Create user request"
-description: "Submit a report and help us improve the Nextcloud Android Client"
-labels: ["bug", "0. Needs triage"]
+description: "Submit a request to create user in our cluster"
+labels: ["user admin"]
 body:
     -   type: textarea
         id: repro-steps
