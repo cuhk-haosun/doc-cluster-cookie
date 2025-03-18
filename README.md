@@ -2,7 +2,8 @@
 configurations of the cluster "cookie" shared by group hao sun and group yongfei wang
 
 # ssh login url
-slcookie.yutg.net
+`ck.sl.zxkl.net`
+`cookie.sl.zxkl.net`
 
 
 # Genome Browser
