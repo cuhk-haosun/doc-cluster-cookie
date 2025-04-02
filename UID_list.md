@@ -8,7 +8,9 @@
 | 1502 | yfwang |
 | 1503 | chenyidan |
 | 1504 | cailizhi |
-| 1505 | leiyao |
+| 1504 | lidingyang as wangtt |
+| 1506 | leiyao |
+| 1507 | wuyichen |
 
 
 ## sun group 
