@@ -2,15 +2,17 @@
 
 ## wang group 
 
-| id | user name |
-| --- | --- |
-| 1501 | lidingyang |
-| 1502 | yfwang |
-| 1503 | chenyidan |
-| 1504 | cailizhi |
-| 1504 | lidingyang as wangtt |
-| 1506 | leiyao |
-| 1507 | wuyichen |
+| id   | user name             | exp. Date  |
+|------|------------------------|------------|
+| 1501 | lidingyang            | 2026.07.31 |
+| 1502 | yfwang                | 2026.07.31 |
+| 1503 | chenyidan             | 2026.07.31 |
+| 1504 | cailizhi              | 2026.07.31 |
+| 1504 | lidingyang as wangtt | 2026.07.31 |
+| 1506 | leiyao                | 2026.07.31 |
+| 1507 | wuyichen              | 2026.07.31 |
+| 1508 | Yiyun Li              | 2026.07.31 |
+
 
 
 ## sun group 
