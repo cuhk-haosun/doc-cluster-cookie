@@ -2,7 +2,9 @@
 # 📚 Cluster “cookie”
 
 Welcome to the cookie computing cluster. This document gathers all the essential information you need to log in, use storage, and access public services.
-Shared Resources for Group Hao Sun & Group Yongfei Wang
+Shared Resources for Group Hao Sun & Group Yongfei Wang.
+
+The cluster is consists of one login node `h1`, four CPU node `c1-c4` and a GPU node `g1`
 
 --- 
 
@@ -20,7 +22,9 @@ Hostname / IP: `slcookie.yutg.net`  `10.26.4.230`
 Port: **22** (default)  
 Example command: `ssh <username>@slcookie.yutg.net`
 
-Replace `<username>` with your personal account name. It is recommended to use SSH key login
+Replace `<username>` with your personal account name.
+After login in to `h1`, nodes can be directly accessed via by ssh their host name. e.g. `ssh c1`. 
+It is recommended to setup SSH key login on all the nodes.
 
 --- 
 
