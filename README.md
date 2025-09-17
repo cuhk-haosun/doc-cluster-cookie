@@ -48,7 +48,7 @@ Three high‑capacity storage pools are mounted on the cluster. Use the paths be
 - **Features** – Self‑hosted instance of the UCSC Genome Browser for the consortium’s reference genomes.  
 - **URL** – <http://slgb.yutg.net/>  
 - **Availability** – Request a username/password from the cluster administrator.  
-- **Upload directory** – `/pool/sun/archive/genome.browser` (only writable by authorized users).  
+- **Upload directory** – `/mnt/d2/genome.browser` (only writable by authorized users).  
 
 
 ## Online PDF Toolbox
