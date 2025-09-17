@@ -14,6 +14,7 @@ The cluster is consists of one login node `h1`, four CPU node `c1-c4` and a GPU 
 - [Public Services](#public-services)
   - [UCSC Genome Browser](#ucsc-genome-browser)
   - [Online PDF Toolbox](#online-pdf-toolbox)
+  - [Self-hosted chatGPT](#self-hosted-chatgpt)
 --- 
 
 # SSH Access
@@ -55,3 +56,8 @@ Three high‑capacity storage pools are mounted on the cluster. Use the paths be
 - **Features** – Page rearrangement, page extraction, format conversion (PDF ↔ DOCX/PNG/etc.), and more.  
 - **URL** – <https://slpdf.yutg.net>  
 - **Availability** – **Open** (Only reachable from inside the CUHK (Shenzhen) network)
+
+## Self-hosted chatGPT
+- **Features** – Self‑hosted instance of chatGPT.
+- **URL** – <http://slai.yutg.net/>  
+- **Availability** – Request a username/password from the cluster administrator.
