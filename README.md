@@ -34,8 +34,8 @@ Three high‑capacity storage pools are mounted on the cluster. Use the paths be
 
 | Pool  | Mount point   | Size   | Primary purpose                     | Remarks |
 |-------|---------------|--------|--------------------------------------|---------|
-| **sugar** | `/mnt/d1/pool` | **102 TB** | Main working directory – daily data | – |
-| **honey** | `/mnt/d2/pool` | **110 TB** | Archival storage – long‑term retention | – |
+| **sugar** | `/mnt/d1/pool` | **102 TB** | Home directory & daily data | – |
+| **honey** | `/mnt/d2/pool` | **110 TB** | Work directory | – |
 | **wind**  | `/mnt/wind`    | **44 TB**  | High‑speed RAID‑0 for temporary work files | **⚠️ Auto‑cleaned** on the **1st day of March, June, September & November**. No data guarantee. |
 
 
