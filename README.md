@@ -21,11 +21,11 @@ The cluster is consists of one login node `h1`, four CPU node `c1-c4` and a GPU 
 From: **CUHK (Shenzhen)**  
 Hostname / IP: `slcookie.yutg.net`  `10.26.4.230`  
 Port: **22** (default)  
-Example command: `ssh <username>@slcookie.yutg.net`
+Example command: `ssh -J <username>@slcookie.yutg.net <username>@<hostname>`
 
 Replace `<username>` with your personal account name.
-After login in to `h1`, nodes can be directly accessed via by ssh their host name. e.g. `ssh c1`. 
-It is recommended to setup SSH key login on all the nodes.
+Replace `<hostname>` with the node you wish to connect to. **Available node: c1, c2, c3, c4**
+It is recommended to setup SSH key login on all the nodes. Otherwise, you need to provide password two times.
 
 --- 
 
