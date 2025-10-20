@@ -29,6 +29,23 @@ Replace `<hostname>` with the node you wish to connect to. **Available node: c1,
 
 It is recommended to setup SSH key login on all the nodes. Otherwise, you need to provide password two times.
 
+## Example config for SSH quick login
+
+Put the code bellow to `~/.ssh/config`
+```
+Host h1
+    HostName slcookie.yutg.net
+    User <username>
+
+Host c1 c2 c3 c4
+    User <username>
+    ProxyJump h1
+
+```
+
+After adding the config above the login command becomes: `ssh c1`
+
+
 --- 
 
 # Shared Storage
