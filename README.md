@@ -24,7 +24,9 @@ Port: **22** (default)
 Example command: `ssh -J <username>@slcookie.yutg.net <username>@<hostname>`
 
 Replace `<username>` with your personal account name.
+
 Replace `<hostname>` with the node you wish to connect to. **Available node: c1, c2, c3, c4**
+
 It is recommended to setup SSH key login on all the nodes. Otherwise, you need to provide password two times.
 
 --- 
