@@ -71,7 +71,7 @@ To install Conda on the cluster, follow the official installation instructions:
    or restart your terminal session.
 
 ## Using Conda
-After installation, you can use Conda to manage software environments:
+After installation, you can use Conda to manage software environments, for example:
 
 1. **Create a new environment**:
    ```bash
