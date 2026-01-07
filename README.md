@@ -4,7 +4,7 @@
 Welcome to the cookie computing cluster. This document gathers all the essential information you need to log in, use storage, and access public services.
 Shared Resources for Group Hao Sun & Group Yongfei Wang.
 
-The cluster is consists of one login node `h1`, four CPU node `c1-c4` and a GPU node `g1`
+The cluster is consists of one login node `h1` which is used as jump host and four CPU node `c1-c4` 
 
 --- 
 
@@ -61,7 +61,7 @@ Three high‑capacity storage pools are mounted on the cluster. Use the paths be
 |-------|---------------|--------|--------------------------------------|---------|
 | **sugar** | `/mnt/d1/pool` | **102 TB** | Home directory & daily data | – |
 | **honey** | `/mnt/d2/pool` | **110 TB** | Work directory | – |
-| **wind**  | `/mnt/wind`    | **44 TB**  | High‑speed RAID‑0 for temporary work files | **⚠️ Auto‑cleaned** on the **1st day of March, June, September & November**. No data guarantee. |
+| **wind**  | `/mnt/wind`    | **44 TB**  | High‑speed RAID‑0 for temporary work files | **⚠️ Auto‑cleaned** on the **1st day of March, June, September & November**. Data safety is not guaranteed. |
 
 
 **⚠️ Caution** – Anything placed in **/mnt/wind** will be **deleted** automatically on the schedule above. Back up important files to **sugar** or **honey** before the cleanup date.
