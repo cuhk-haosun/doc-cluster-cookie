@@ -1,13 +1,14 @@
 name: "Create user request"
 description: "Submit a request to create user in our cluster"
 labels: ["user admin"]
-assignees: "sunhaocuhk"
+assignees: "Milokita"
+title: "[Create User Request] Zhang San"
 body:
     -   type: textarea
         id: repro-steps
         attributes:
             label: Who are you?
-            description: Tell us your name and school email addr.
+            description: Pls input both your name and school email addr.
             placeholder: |
                 My name is Zhang Ming,
                 I am student from course ABC123, my email addr is xxx@link.cuhk.edu.cn
