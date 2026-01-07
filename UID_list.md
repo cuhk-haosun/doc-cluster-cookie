@@ -17,6 +17,12 @@
 | 1269 | qzy (Zhaoyang Qian) | 2025-12-31 |
 | 1270 | zhanghoude | 2027-08-31 |
 
+# Hao Sun Intern group 
+
+| id | user name | Exp. Date
+| --- | --- | --- |
+| 1701 | sxx (SHI Xiaoxi) | 2026-07-31 |
+
 
 
 # Yongfei Wang group 
