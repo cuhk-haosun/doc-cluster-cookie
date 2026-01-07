@@ -14,6 +14,16 @@ body:
                 I am student from course ABC123, my email addr is xxx@link.cuhk.edu.cn
         validations:
             required: true
+            
+    -   type: input
+        id: email
+        attributes:
+            label: What's your school email address?
+            description: Enter a valid school email address.
+            placeholder: xxx@link.cuhk.edu.cn
+        validations:
+            required: true
+            
     -   type: textarea
         id: expected-behaviour
         attributes:
