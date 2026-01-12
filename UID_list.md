@@ -21,7 +21,8 @@
 
 | id | user name | Exp. Date
 | --- | --- | --- |
-| 1701 | sxx (SHI Xiaoxi) | 2026-07-31 |
+| 1701 | sxx (Xiaoxi Shi) | 2026-07-31 |
+| 1702 | qujinze (Jinze Qu) | 2026-12-31 |
 
 
 
