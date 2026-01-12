@@ -1,4 +1,3 @@
-
 # 📚 Cluster “cookie”
 
 Welcome to the cookie computing cluster. This document gathers all the essential information you need to log in, use storage, and access public services.
@@ -10,6 +9,7 @@ The cluster is consists of one login node `h1` which is used as jump host and fo
 
 ## Table of Contents
 - [SSH Access](#ssh-access)
+- [Conda Download](#conda-download)
 - [Shared Storage](#shared-storage)
 - [Public Services](#public-services)
   - [UCSC Genome Browser](#ucsc-genome-browser)
@@ -54,12 +54,70 @@ After adding the config above the login command becomes: `ssh c1`
 
 --- 
 
+# Conda Download
+
+## Install Conda
+To install Conda on the cluster, follow the official installation instructions:
+
+1. **Download Miniconda** (recommended for minimal installation):
+   ```bash
+   wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+   ```
+
+2. **Run the installer**:
+   ```bash
+   bash Miniconda3-latest-Linux-x86_64.sh
+   ```
+   Follow the prompts to complete the installation. It's recommended to install in your home directory.
+
+3. **Initialize Conda**:
+   ```bash
+   source ~/.bashrc
+   ```
+   or restart your terminal session.
+
+## Using Conda
+After installation, you can use Conda to manage software environments, for example:
+
+1. **Create a new environment**:
+   ```bash
+   conda create -n myenv python=3.9
+   ```
+
+2. **Activate environment**:
+   ```bash
+   conda activate myenv
+   ```
+
+3. **Install packages**:
+   ```bash
+   conda install package_name
+   ```
+
+4. **Search for available packages**:
+   ```bash
+   conda search package_name
+   ```
+
+## Recommended Installation Directory
+For better storage management, we recommend installing Conda and environments in the shared storage:
+
+- **Conda base installation**: `/mnt/d1/pool/software/miniconda3` (sugar pool)
+- **Conda environments**: `/mnt/d1/pool/software/conda_envs` (sugar pool)
+
+You can set this up by specifying the installation path during Conda installation or by configuring conda environments directory:
+```bash
+conda config --add envs_dirs /mnt/d1/pool/software/conda_envs
+```
+
+--- 
+
 # Shared Storage
 Three high‑capacity storage pools are mounted on the cluster. Use the paths below in your scripts, notebooks, or interactive sessions.
 
 | Pool  | Mount point   | Size   | Primary purpose                     | Remarks |
 |-------|---------------|--------|--------------------------------------|---------|
-| **sugar** | `/mnt/d1/pool` | **102 TB** | Home directory & daily data | – |
+| **sugar** | `/mnt/d1/pool` | **102 TB** | Home directory & daily data | Recommended for Conda installation and software |
 | **honey** | `/mnt/d2/pool` | **110 TB** | Work directory | – |
 | **wind**  | `/mnt/wind`    | **44 TB**  | High‑speed RAID‑0 for temporary work files | **⚠️ Auto‑cleaned** on the **1st day of March, June, September & November**. Data safety is not guaranteed. |
 
