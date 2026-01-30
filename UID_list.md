@@ -23,7 +23,8 @@
 | --- | --- | --- |
 | 1701 | sxx (Xiaoxi Shi) | 2026-07-31 |
 | 1702 | qujinze (Jinze Qu) | 2026-12-31 |
-
+| 1703 | haozhen (Haozhen Hongu) | 2026-09-30 |
+| 1704 | syc (Yuchen Shen) | 2026-07-30 |
 
 
 # Yongfei Wang group 
