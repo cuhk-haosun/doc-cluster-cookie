@@ -13,9 +13,9 @@
 | 1265 | ylw | 2025-12-31 |
 | 1266 | zxzw | 2027-12-31 |
 | 1267 | xinhans (Xinhan Song) | 2029-6-31 |
-| 1268 | bowxiong (Bowen Xiong) | 2025-12-31 |
 | 1269 | qzy (Zhaoyang Qian) | 2025-12-31 |
 | 1270 | zhanghoude | 2027-08-31 |
+| 1272 | sq (Qiao Su) | 2027-08-31 |
 
 # Hao Sun Intern group 
 
