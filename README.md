@@ -150,4 +150,4 @@ Three high‑capacity storage pools are mounted on the cluster. Use the paths be
 ## IGV Browser
 - **Features** – Interactive web‑based viewer for large genomic datasets (BAM, CRAM, VCF, BED, bigWig, etc.). Supports multi‑track alignment, variant inspection, real‑time navigation, and custom track loading from local files or remote URLs. Includes built‑in tools for read depth statistics, coverage plots, and on‑the‑fly annotation overlay.
 - **URL** – http://sligv.yutg.net/
-- **Availability** – Request a username/password from the cluster administrator.  
+- **Availability** – open access
