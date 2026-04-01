@@ -14,7 +14,9 @@ The cluster is consists of one login node `h1` which is used as jump host and fo
 - [Public Services](#public-services)
   - [UCSC Genome Browser](#ucsc-genome-browser)
   - [Online PDF Toolbox](#online-pdf-toolbox)
-  - [Self-hosted chatGPT](#self-hosted-chatgpt)
+  - [Self‑hosted chatGPT](#self-hosted-chatgpt)
+  - [IGV Browser](#igv-browser)
+
 --- 
 
 # SSH Access
@@ -144,3 +146,8 @@ Three high‑capacity storage pools are mounted on the cluster. Use the paths be
 - **Features** – Self‑hosted instance of chatGPT.
 - **URL** – <http://slai.yutg.net/>  
 - **Availability** – Request a username/password from the cluster administrator.
+
+## IGV Browser
+- **Features** – Interactive web‑based viewer for large genomic datasets (BAM, CRAM, VCF, BED, bigWig, etc.). Supports multi‑track alignment, variant inspection, real‑time navigation, and custom track loading from local files or remote URLs. Includes built‑in tools for read depth statistics, coverage plots, and on‑the‑fly annotation overlay.
+- **URL** – http://sligv.yutg.net/
+- **Availability** – Request a username/password from the cluster administrator.  
