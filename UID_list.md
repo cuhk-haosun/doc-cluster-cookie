@@ -26,6 +26,7 @@
 | 1703 | haozhen (Haozhen Hongu) | 2026-09-30 |
 | 1704 | syc (Yuchen Shen) | 2026-07-30 |
 | 1705 | dzh (Zhihan Dong) | 2026-04-01 |
+| 1706 | zrq (Ruiqi Zhang) | 2026-09-01 |
 
 # Yongfei Wang group 
 
