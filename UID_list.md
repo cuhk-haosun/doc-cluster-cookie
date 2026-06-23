@@ -40,6 +40,7 @@
 | 1506 | leiyao                | 2026.07.31 |
 | 1507 | wuyichen              | 2026.07.31 |
 | 1508 | Yiyun Li              | 2026.07.31 |
+| 1509 | hezongpei (He Zongpei)              | 2026.07.31 |
 
 
 
@@ -48,6 +49,6 @@
 | id | user name | Exp. Date
 | --- | --- | --- |
 | 1651 | Yingkun Zhang | 2025-12-31 |
-| 1652 | xtj | 2027-12-31 |
+| 1652 | lgx (Gexin Liu) | 2027-12-31 |
 
 
