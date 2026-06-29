@@ -27,6 +27,7 @@
 | 1704 | syc (Yuchen Shen) | 2026-07-30 |
 | 1705 | dzh (Zhihan Dong) | 2026-04-01 |
 | 1706 | zrq (Ruiqi Zhang) | 2026-09-01 |
+| 1707 | wst (Site Wang) | 2026-09-01 |
 
 # Yongfei Wang group 
 
