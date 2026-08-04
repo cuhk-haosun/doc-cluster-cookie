@@ -28,6 +28,7 @@
 | 1705 | dzh (Zhihan Dong) | 2026-04-01 |
 | 1706 | zrq (Ruiqi Zhang) | 2026-09-01 |
 | 1707 | wst (Site Wang) | 2026-09-01 |
+| 1708 | austin (Ruiyuan Ma) | 2026-10-01 |
 
 # Yongfei Wang group 
 
