@@ -128,7 +128,7 @@ Three high‑capacity storage pools are mounted on the cluster. Use the paths be
 
 ## Cold Storage
 There is a cold storage based ob self-hosted cloud disk. Currently this is open to Prof. Sun's group upon request.
-The mount user manual can be found in `nextcloud.mount.md`
+The mount user manual can be found in [nextcloud.mount.md](https://github.com/cuhk-haosun/doc-cluster-cookie/blob/main/nextcloud.mount.md#mount-nextcloud-on-linux-using-rclone)
 
 
 # Public Services
