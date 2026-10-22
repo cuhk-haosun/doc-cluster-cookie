@@ -114,7 +114,7 @@ conda config --add envs_dirs /mnt/d1/pool/software/conda_envs
 
 --- 
 
-# Shared Storage
+# Storage
 Three high‑capacity storage pools are mounted on the cluster. Use the paths below in your scripts, notebooks, or interactive sessions.
 
 | Pool  | Mount point   | Size   | Primary purpose                     | Remarks |
@@ -126,6 +126,9 @@ Three high‑capacity storage pools are mounted on the cluster. Use the paths be
 
 **⚠️ Caution** – Anything placed in **/mnt/wind** will be **deleted** automatically on the schedule above. Back up important files to **sugar** or **honey** before the cleanup date.
 
+## Cold Storage
+There is a cold storage based ob self-hosted cloud disk. Currently this is open to Prof. Sun's group upon request.
+The mount user manual can be found in `nextcloud.mount.md`
 
 
 # Public Services
