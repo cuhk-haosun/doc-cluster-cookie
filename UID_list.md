@@ -24,7 +24,7 @@
 | --- | --- | --- |
 | 1702 | qujinze (Jinze Qu) | 2026-12-31 |
 | 1703 | yilyn (QIN Yining) | 2027-6-30 |
-| 1704 |  | |
+| 1704 | michellejia (Michelle Jia)| 2027-6-30 |
 | 1705 |  |  |
 | 1706 | zrq (Ruiqi Zhang) | disabled |
 | 1707 |  |  |
