@@ -5,8 +5,8 @@
 
 | id | user name | Exp. Date
 | --- | --- | --- |
-| 1260 | liuzixin | 2025-12-31 |
-| 1261 | xtj | 2025-12-31 |
+| 1260 | | |
+| 1261 |  |  |
 | 1262 |  |  |
 | 1263 | lyx | 2025-12-31 |
 | 1264 | txr | 2025-12-31 |
@@ -16,19 +16,19 @@
 | 1269 | qzy (Zhaoyang Qian) | 2025-12-31 |
 | 1270 | zhanghoude | 2027-08-31 |
 | 1272 | sq (Qiao Su) | 2027-08-31 |
+| 1701 | sxx (Xiaoxi Shi) | 2026-07-31 |
 
 # Hao Sun Intern group 
 
 | id | user name | Exp. Date
 | --- | --- | --- |
-| 1701 | sxx (Xiaoxi Shi) | 2026-07-31 |
 | 1702 | qujinze (Jinze Qu) | 2026-12-31 |
-| 1703 | haozhen (Haozhen Hongu) | 2026-09-30 |
+| 1703 |  |  |
 | 1704 |  | |
 | 1705 |  |  |
-| 1706 | zrq (Ruiqi Zhang) | 2026-09-01 |
-| 1707 | wst (Site Wang) | 2026-09-01 |
-| 1708 | austin (Ruiyuan Ma) | 2026-10-01 |
+| 1706 | zrq (Ruiqi Zhang) | disabled |
+| 1707 |  |  |
+| 1708 | austin (Ruiyuan Ma) | disabled |
 
 # Yongfei Wang group 
 
@@ -50,7 +50,6 @@
 
 | id | user name | Exp. Date
 | --- | --- | --- |
-| 1651 | Yingkun Zhang | 2025-12-31 |
 | 1652 | lgx (Gexin Liu) | 2027-12-31 |
 
 
