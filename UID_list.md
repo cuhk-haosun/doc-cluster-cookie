@@ -15,6 +15,7 @@
 | 1267 | xinhans (Xinhan Song) | 2029-6-31 |
 | 1269 | qzy (Zhaoyang Qian) | 2025-12-31 |
 | 1270 | zhanghoude | 2027-08-31 |
+| 1271 | wxl (Xiaolan Wang) | 2027-08-31 |
 | 1272 | sq (Qiao Su) | 2027-08-31 |
 | 1701 | sxx (Xiaoxi Shi) | 2026-07-31 |
 
